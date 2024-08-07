@@ -6,7 +6,7 @@ Welcome to our Minimal E-Commerce Store built using the MERN (MongoDB, Express, 
 
 ## Features   
 
-- User Registration and Authentication
+- User Registration and Authentication    
 - Browse Products by Categories
 - Product Details and Descriptions
 - Add and Manage Products in the Shopping Cart
